@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <profile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="profile.xsd" useForConfiguration="1" base="base">
   <profileName>Anyang Public Art Project</profileName>
   <profileDescription>안양 공공예술재단이 2005년부터 진행한 Anyang Public Art Project의 아카이브 구조입니다.</profileDescription>
@@ -301,7 +302,7 @@
           </labels>
         </item>
 
-        <item idno="installation" enabled="1" default="0">
+        <item idno="performance" enabled="1" default="0">
           <labels>
             <label locale="ko_KR" preferred="1">
               <name_singular>퍼포먼스</name_singular>
@@ -603,20 +604,8 @@
           </labels>
         </item>
 
-        <item idno="public_educational_program" enabled="1" default="0">
-          <labels>
-            <label locale="ko_KR" preferred="1">
-              <name_singular>공공/교육 프로그램</name_singular>
-              <name_plural>공공/교육 프로그램</name_plural>
-            </label>
-            <label locale="en_US" preferred="0">
-              <name_singular>Public/Educational Program</name_singular>
-              <name_plural>Public/Educational Program</name_plural>
-            </label>
-          </labels>
-        </item>
 
-        <item idno="public_educational_program" enabled="1" default="0">
+        <item idno="opening_event" enabled="1" default="0">
           <labels>
             <label locale="ko_KR" preferred="1">
               <name_singular>개막 행사</name_singular>
@@ -752,7 +741,7 @@
       </items>
     </list>
 
-    <list code="research_resources" hierarchical="1" system="0" vocabulary="0">
+    <list code="research_resources_type" hierarchical="1" system="0" vocabulary="0">
       <labels>
         <label locale="en_US">
           <name>연구 자료</name>
