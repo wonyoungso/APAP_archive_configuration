@@ -1,5 +1,3 @@
-
-<?xml version="1.0" encoding="utf-8"?>
 <profile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="profile.xsd" useForConfiguration="1" base="base">
   <profileName>Anyang Public Art Project</profileName>
   <profileDescription>안양 공공예술재단이 2005년부터 진행한 Anyang Public Art Project의 아카이브 구조입니다.</profileDescription>
